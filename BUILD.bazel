@@ -1,0 +1,4 @@
+cc_binary(
+    name = "numa",
+    srcs = [ "numa.cpp" ],
+)
